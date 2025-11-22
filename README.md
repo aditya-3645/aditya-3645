@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- Dark Gradient Header -->
+<img width="100%" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000004d6c722fbc8327d76d0a1500&ts=489823&p=fs&cid=1&sig=a97c8775c9c2c0cc24b1c1c353139a12aa858977efd692823299aa1486a03941&v=0" />
 
-<!--
-**aditya-3645/aditya-3645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aditya Dhumal</h1>
 
-Here are some ideas to get you started:
+<!-- Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3DF7FF&center=true&vCenter=true&width=550&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Impact" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Data Analyst | Data Scientist | ML Enthusiast | Python Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditya-dhumal-30&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🚀 About Me  
+- 🌱 Currently learning **Data Science, Machine Learning, MySQL, Python, and Data Visualization**  
+- 🤖 I work with real-world datasets and build ML models  
+- 📊 Experience in **EDA, dashboards, and analytical storytelling**  
+- 💡 Passionate about solving **end-to-end data problems**  
+- 🎯 Goal: Become a **top data professional** by combining analytics, ML, and business impact  
+
+---
+
+## 🛠️ Skills & Tools  
+
+### 🔥 Programming  
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🤖 Data Science & Machine Learning  
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-2B2D42?style=for-the-badge" />
+</p>
+
+### 📊 Data Tools  
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+---
+
+## 📁 Featured Projects  
+Here are some of my notable GitHub projects:
+
+- **aditya-travels** — A full-stack vehicle booking web app  
+- **CRUD-application** — Express.js + EJS application with UUID-based routing  
+- **SIMON-SAYS-GAME** — A JavaScript-based memory game  
+- **JavaScript-Quiz-Application** — Interactive JS quiz app  
+- **End-to-End Data Pipeline Project** — ML + MySQL + Visualization (concept/working model)  
+
+---
+
+## 📊 GitHub Stats (Dark Theme)  
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aditya-dhumal-30&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-dhumal-30&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/adityadhumal2005/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>

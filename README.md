@@ -58,8 +58,11 @@ Here are some of my notable GitHub projects:
 - **CRUD-application** — Express.js + EJS application with UUID-based routing  
 - **SIMON-SAYS-GAME** — A JavaScript-based memory game  
 - **JavaScript-Quiz-Application** — Interactive JS quiz app  
-- **End-to-End Data Pipeline Project** — ML + MySQL + Visualization (concept/working model)  
-
+- **End-to-End Data Pipeline Project** — ML + MySQL + Visualization (concept/working model)
+- **Bike-sales-analysis**  — MS Excel (advance excel/excel formulas/data visualization)
+- **SQL-analysis**  — SQL Queries(Select/Join/Group By/CTE/Window Functions/etc.)
+- **Power-Bi HR-analysis**  — PowerBi(Data Modeling/EDA/Data Transformation/Data visualization/DAX)
+- **OTT-user-analysis-TABLEAU**  — Tableau(Calculated fields/Paramaters/Data visualization/etc.)
 ---
 
 ## 📊 GitHub Stats (Dark Theme)  

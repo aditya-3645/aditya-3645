@@ -67,8 +67,8 @@ Here are some of my notable GitHub projects:
 
 ## 📊 GitHub Stats (Dark Theme)  
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aditya-dhumal-30&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-dhumal-30&layout=compact&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aditya-3645&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-3645&layout=compact&theme=tokyonight" />
 </p>
 
 ---

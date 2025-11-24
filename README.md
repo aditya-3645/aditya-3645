@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3DF7FF&center=true&vCenter=true&width=550&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Impact" />
 </p>
 
-<h3 align="center">Data Analyst | Data Scientist | ML Enthusiast | Python Developer</h3>
+<h3 align="center">Data Analyst | Data Scientist | ML Enthusiast | SQL Developer | Data Engineering</h3>
 
 
 ---

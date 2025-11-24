@@ -1,5 +1,6 @@
 <!-- Dark Gradient Header -->
-<img width="100%" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000004d6c722fbc8327d76d0a1500&ts=489823&p=fs&cid=1&sig=a97c8775c9c2c0cc24b1c1c353139a12aa858977efd692823299aa1486a03941&v=0" />
+![Dashboard Preview](https://github.com/aditya-3645/ott_user_interaction_tableau/blob/7218c21507d773528a4d9982bfefe4effe4b9b0d/Screenshot%202025-11-21%20102123.png)
+
 
 <h1 align="center">Hi 👋, I'm Aditya Dhumal</h1>
 

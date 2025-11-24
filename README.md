@@ -10,14 +10,11 @@
 
 <h3 align="center">Data Analyst | Data Scientist | ML Enthusiast | Python Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya-dhumal-30&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently learning **Data Science, Machine Learning, MySQL, Python, and Data Visualization**  
+- 🌱 Currently learning **Data Science, Machine Learning**  
 - 🤖 I work with real-world datasets and build ML models  
 - 📊 Experience in **EDA, dashboards, and analytical storytelling**  
 - 💡 Passionate about solving **end-to-end data problems**  
@@ -65,12 +62,6 @@ Here are some of my notable GitHub projects:
 - **OTT-user-analysis-TABLEAU**  — Tableau(Calculated fields/Paramaters/Data visualization/etc.)
 ---
 
-## 📊 GitHub Stats (Dark Theme)  
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aditya-3645&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-3645&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me  
@@ -78,4 +69,4 @@ Here are some of my notable GitHub projects:
   <a href="https://www.linkedin.com/in/adityadhumal2005/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</p> 

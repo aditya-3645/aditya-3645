@@ -1,5 +1,5 @@
 <!-- Dark Gradient Header -->
-![My Info](https://github.com/aditya-3645/aditya-3645/blob/516c45f3880e37227c85dcf66bb9f88e3f6d118f/Gemini_Generated_Image_uc9x7ouc9x7ouc9x.png)
+![My Info](https://github.com/aditya-3645/aditya-3645/blob/fc1e049b0d9a6fc9db24340b2c9644ab963ae86c/Gemini_Generated_Image_6o1qxf6o1qxf6o1q.png)
 
 
 <h1 align="center">Hi 👋, I'm Aditya Dhumal</h1>

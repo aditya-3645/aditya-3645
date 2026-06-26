@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="center">
-Data Analyst • Data Scientist • Machine Learning Enthusiast • SQL Developer • Business Intelligence
+Artificial Intelligence Enthusiast • RAG •Data Analyst • Data Scientist • Machine Learning Enthusiast • Business Intelligence
 </h3>
 
 ---

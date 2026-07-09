@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="center">
-Artificial Intelligence Enthusiast • RAG •Data Analyst • Data Scientist • Machine Learning Enthusiast • Business Intelligence
+Computer Vision Enthusiast • Artificial Intelligence Enthusiast • RAG • Data Analyst • Data Scientist • Machine Learning Enthusiast • Business Intelligence
 </h3>
 
 ---

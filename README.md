@@ -1,31 +1,21 @@
-<!-- ========================================================================================= -->
-<!--                                 ADITYA DHUMAL                                              -->
-<!--                         AI ENGINEER • GENERATIVE AI • ML                                  -->
-<!-- ========================================================================================= -->
+<!-- ========================================= -->
+<!--           ADITYA DHUMAL | README          -->
+<!-- ========================================= -->
 
-<div align="center">
+![Banner](https://github.com/aditya-3645/aditya-3645/blob/main/Gemini_Generated_Image_6o1qxf6o1qxf6o1q.png)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,30:203A43,70:2C5364,100:00C9FF&text=Aditya%20Dhumal&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Machine%20Learning&descAlignY=58"/>
-
-</div>
-
-<h1 align="center">
-Hi 👋 I'm Aditya Dhumal
-</h1>
+<h1 align="center">Hi 👋, I'm Aditya Dhumal</h1>
 
 <h3 align="center">
 AI Engineer • Generative AI • Machine Learning • Computer Vision • Data Analytics
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Building+AI+Products+That+Solve+Real+Problems;Machine+Learning+Engineer;Generative+AI+Developer;RAG+%7C+LangChain+%7C+LLMs;Computer+Vision+Developer;Always+Learning.+Always+Building."/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Generative+AI+Developer;Machine+Learning+Engineer;Computer+Vision+Enthusiast;Building+LLM+%26+RAG+Applications;Python+%7C+SQL+%7C+LangChain+%7C+Streamlit;OpenCV+%7C+YOLO+%7C+FAISS;Turning+Ideas+Into+AI+Products"/>
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aditya-3645&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=aditya-3645&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/aditya-3645?style=for-the-badge"/>
 
@@ -39,93 +29,62 @@ AI Engineer • Generative AI • Machine Learning • Computer Vision • Data 
 
 # 🚀 About Me
 
-```yaml
-Name:
-  Aditya Dhumal
+🎓 Final Year B.E. Computer Engineering Student passionate about Artificial Intelligence and Data Analytics.
 
-Role:
-  AI Engineer
+💡 I enjoy building AI-powered applications that solve real-world problems using Large Language Models, Retrieval-Augmented Generation (RAG), Machine Learning and Computer Vision.
 
-Education:
-  Bachelor of Engineering
-  Computer Engineering
+🚀 My interests include AI Engineering, Generative AI, Machine Learning, Deep Learning, Computer Vision, Data Analytics and Intelligent Automation.
 
-Focus:
-  - Machine Learning
-  - Generative AI
-  - Computer Vision
-  - Retrieval-Augmented Generation
-  - Intelligent Automation
+🌱 Currently learning
 
-Mission:
-  Build AI products that solve real-world business problems.
+- Deep Learning
+- Computer Vision
+- YOLO
+- AI Agents
+- LangGraph
+- MLOps
+- Data Engineering
+- System Design
 
-Currently Learning:
-  - Deep Learning
-  - LangGraph
-  - AI Agents
-  - YOLO
-  - MLOps
-  - Data Engineering
-  - System Design
+🎯 Career Goal
 
-Open To:
-  - AI Internships
-  - Machine Learning Roles
-  - Open Source Collaboration
-```
+To become an AI Engineer capable of designing intelligent systems that create measurable business impact.
 
 ---
 
-# ⚙️ Tech Stack
+# 💻 Tech Stack
 
-## 👨‍💻 Languages
+## Programming Languages
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🤖 Artificial Intelligence
+## Artificial Intelligence & Machine Learning
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://img.shields.io/badge/Machine Learning-102230?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-orange?style=for-the-badge"/>
-
-</p>
-
----
-
-## 📊 Data Analytics
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Matplotlib-2C3E50?style=for-the-badge"/>
 
@@ -133,17 +92,57 @@ Open To:
 
 ---
 
-## 🛠️ Tools
+## Generative AI
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0078D7?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/n8n-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google Gemini-4285F4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/REST%20API-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt Engineering-8E44AD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Data Analytics & Business Intelligence
+
+<p>
+
+<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data Analytics-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EDA-34495E?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Development Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/REST API-005571?style=for-the-badge"/>
 
 </p>
 
@@ -151,12 +150,19 @@ Open To:
 
 # 🏆 Highlights
 
-- 🚀 Built AI-powered applications using LangChain, Streamlit and LLM APIs.
-- 🤖 Developed a Research Intelligence Platform using RAG.
-- 📧 Built an AI Job Application Manager using n8n, Gmail API and Telegram Bot.
-- 👁️ Worked on Computer Vision using OpenCV and YOLO.
-- 📊 Built dashboards using Power BI and Tableau.
-- 💡 Passionate about AI products that create measurable impact.
+✅ Built AI-powered applications using Python, LangChain, Streamlit and LLM APIs.
+
+✅ Developed a multi-document Research Intelligence Platform using Retrieval-Augmented Generation (RAG).
+
+✅ Built Machine Learning models for predictive analytics.
+
+✅ Designed interactive dashboards using Power BI and Tableau.
+
+✅ Solved business problems using SQL, EDA and Data Visualization.
+
+✅ Explored Computer Vision using OpenCV and YOLO.
+
+✅ Experience with Prompt Engineering, API Integration and AI workflow design.
 
 ---
 
@@ -190,7 +196,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-3645&
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Projects
 
 <table>
 
@@ -200,90 +206,77 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-3645&
 
 ## 🤖 Research Intelligence Platform
 
-```
 Repository:
-**Research-Intelligence-Platform**
+**research-intelligence-platform**
 
-- 📄 Multi-document RAG System
-- 🔍 Semantic Search across PDFs
-- 🧠 AI-powered Question Answering
-- 📚 Cross-document Knowledge Retrieval
-- ⚡ FAISS Vector Database
-- 🤖 Gemini Integration
-- 🌐 Streamlit Interface
+- Multi-document RAG System
+- Semantic Search over PDFs
+- AI-powered Question Answering
+- Cross-document Analysis
+- FAISS Vector Database
+- Gemini API Integration
+- Streamlit Interface
 
 **Tech Stack**
 
-Python • LangChain • FAISS • Gemini • Streamlit
+Python
+
+LangChain
+
+FAISS
+
+Gemini API
+
+Streamlit
 
 </td>
 
 <td width="50%">
 
-## 📧 AI Job Application Manager
+## 👁️ Object Detection using YOLO
 
-Repository:
-**AI-Job-Application-Manager**
-
-- 📩 Monitors Gmail automatically
-- 🤖 Uses LLM to classify interview emails
-- 📅 Extracts interview details
-- 📲 Sends Telegram notifications
-- ⚡ Built completely in n8n
-- 🔗 Gmail API Integration
-- 🧠 Structured AI Parsing
+- Real-time Object Detection
+- Bounding Box Detection
+- Computer Vision
+- OpenCV Integration
+- Deep Learning
 
 **Tech Stack**
 
-n8n • Gmail API • Telegram Bot API • OpenRouter • Amazon Nova Lite
+Python
+
+YOLO
+
+OpenCV
 
 </td>
 
 </tr>
 
 <tr>
-
-<td width="50%">
-
-## 👁️ Object Detection using YOLO
-
-Repository:
-**Object-Detection-YOLO**
-
-- 🎥 Real-time Object Detection
-- 📦 Bounding Box Prediction
-- 🧠 Deep Learning
-- 📷 OpenCV Integration
-- ⚡ Optimized Inference
-
-**Tech Stack**
-
-Python • YOLO • OpenCV
-
-</td>
 
 <td width="50%">
 
 ## 📊 HR Analytics Dashboard
 
 Repository:
-**PowerBI-HR_Analysis_Report**
+**PowerBi-HR_Analysis_Report**
 
-- 📈 Employee Attrition Analysis
-- 📉 Interactive Dashboard
-- 📋 KPI Monitoring
-- 📊 Business Intelligence
-- 📌 DAX Measures
+- Employee Attrition Analysis
+- Interactive Dashboard
+- KPI Monitoring
+- Data Visualization
+- DAX Measures
 
 **Tech Stack**
 
-Power BI • DAX • Excel
+Power BI
+
+DAX
+
+Excel
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
@@ -292,17 +285,26 @@ Power BI • DAX • Excel
 Repository:
 **RIDE-HAILING-DATA-ANALYSIS-EDA**
 
-- 📈 Exploratory Data Analysis
-- 🚖 Customer Behaviour
-- 📊 Business Insights
-- 📉 Trend Analysis
-- 📌 Data Visualization
+- Exploratory Data Analysis
+- Customer Behavior Analysis
+- Booking Trends
+- Business Insights
 
 **Tech Stack**
 
-Python • Pandas • NumPy • Matplotlib
+Python
+
+Pandas
+
+Matplotlib
+
+NumPy
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
@@ -311,14 +313,85 @@ Python • Pandas • NumPy • Matplotlib
 Repository:
 **Student_placement_status_ML**
 
-- 🤖 Machine Learning Classification
-- 🧹 Data Cleaning
-- 📊 Feature Engineering
-- 📈 Model Evaluation
+- Classification Model
+- Feature Engineering
+- Data Cleaning
+- Model Evaluation
 
 **Tech Stack**
 
-Python • Scikit-Learn • Pandas
+Python
+
+Scikit-Learn
+
+Pandas
+
+NumPy
+
+</td>
+
+<td width="50%">
+
+## 🗄 SQL Business Analytics
+
+Repository:
+**SQL-Project**
+
+- Advanced SQL Queries
+- Window Functions
+- CTEs
+- Business Reporting
+- Data Analysis
+
+**Tech Stack**
+
+MySQL
+
+SQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📺 OTT Recommendation System
+
+Repository:
+**OTT_platform_recommendation_system_ML**
+
+- Recommendation Engine
+- Personalized Suggestions
+- Machine Learning
+
+**Tech Stack**
+
+Python
+
+Machine Learning
+
+</td>
+
+<td width="50%">
+
+## 🎬 IMDb Data Analysis
+
+Repository:
+**IMDB-Data-Analysis**
+
+- Movie Trend Analysis
+- Rating Analysis
+- Genre Insights
+
+**Tech Stack**
+
+Python
+
+Pandas
+
+Matplotlib
 
 </td>
 
@@ -332,7 +405,7 @@ Python • Scikit-Learn • Pandas
 
 <p align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya-3645&theme=tokyo-night&hide_border=true)](https://github.com/aditya-3645)
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya-3645&theme=tokyo-night)](https://github.com/aditya-3645)
 
 </p>
 
@@ -368,493 +441,78 @@ Python • Scikit-Learn • Pandas
 
 ---
 
-# 🧠 Currently Learning
+# 📚 Currently Learning
 
-```text
-██████████████████████████████████████████████
-
-aditya@github:~$ learning
-
-✔ Deep Learning
-
-✔ LangGraph
-
-✔ AI Agents
-
-✔ YOLOv11
-
-✔ Computer Vision
-
-✔ MLOps
-
-✔ Vector Databases
-
-✔ Data Engineering
-
-✔ System Design
-
-✔ Advanced SQL
-
-✔ Distributed AI Systems
-
-✔ LLM Optimization
-
-aditya@github:~$
-
-██████████████████████████████████████████████
-```
+- 🤖 Advanced Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 🚀 YOLO Object Detection
+- 🔗 LangGraph
+- 🤖 AI Agents
+- 📦 MLOps
+- ☁️ Data Engineering
+- 🗄️ Vector Databases
+- ⚙️ System Design
+- 📊 Advanced SQL
+- 🧩 Design Patterns
 
 ---
 
 # 🎯 Areas of Interest
 
-<table>
-
-<tr>
-
-<td>
-
-🤖 Artificial Intelligence
-
-</td>
-
-<td>
-
-🧠 Generative AI
-
-</td>
-
-<td>
-
-📚 Large Language Models
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-⚡ AI Agents
-
-</td>
-
-<td>
-
-🔍 Retrieval-Augmented Generation
-
-</td>
-
-<td>
-
-👁️ Computer Vision
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-📊 Data Analytics
-
-</td>
-
-<td>
-
-📈 Machine Learning
-
-</td>
-
-<td>
-
-🚀 Deep Learning
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-📦 MLOps
-
-</td>
-
-<td>
-
-🧩 Backend Development
-
-</td>
-
-<td>
-
-💡 AI Product Engineering
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 Development Philosophy
-
-```text
-
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Break();
-
-    Debug();
-
-    Improve();
-
-    Repeat();
-
-}
-
-```
-
----
-
-# ⚡ Fun Terminal Commands
-
-```text
-
-aditya@github:~$ skills
-
-Python ████████████████████████
-
-Machine Learning ████████████████████
-
-Generative AI ███████████████████
-
-Computer Vision ████████████████
-
-SQL ███████████████████
-
-Power BI ███████████████
-
-LangChain ███████████████████
-
-Problem Solving ████████████████████
-
-```
-
----
-
-# 🏅 Certifications
-
-- 🎓 MirAI School of Technology — AI Builder Track
-- 🤖 AI & Machine Learning Certifications
-- 📊 Data Analytics & Power BI
-- 🐍 Python Programming
-- 📈 SQL & Data Analysis
-
----
-
-# 🌟 Open Source Goals
-
-- ✅ Contribute to AI repositories
-- ✅ Publish production-grade AI projects
-- ✅ Build reusable Python libraries
-- ✅ Help beginners learn AI
-- ✅ Become an active OSS contributor
-
----
-
-# 📊 Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-
-```text
-Python           ████████████████▓░░░░
-SQL              █████████░░░░░░░░░░░░
-Power BI         ███████░░░░░░░░░░░░░░
-Markdown         ██████░░░░░░░░░░░░░░░
-Git              █████░░░░░░░░░░░░░░░░
-```
-
-<!--END_SECTION:waka-->
-
----
-
-# 🌍 Let's Build the Future with AI
-
-```text
-
-Artificial Intelligence isn't replacing developers.
-
-Developers using AI are replacing developers who don't.
-
-```
+- Artificial Intelligence
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Analytics
+- Business Intelligence
+- Intelligent Automation
+- Backend Development
+- AI Product Development
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/adityadhumal2005/" target="_blank">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="https://github.com/aditya-3645" target="_blank">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="mailto:YOUR_EMAIL_HERE">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 </p>
 
 ---
 
-# 🧩 Developer Mindset
-
-```text
-██████████████████████████████████████████████████
-
-aditya@github:~$ cat philosophy.txt
-
-• Every project should solve a real problem.
-
-• Simplicity beats complexity.
-
-• Learn by building.
-
-• Consistency beats motivation.
-
-• Automation saves time.
-
-• Good code is readable.
-
-• Great engineers never stop learning.
-
-aditya@github:~$
-
-██████████████████████████████████████████████████
-```
-
----
-
-# 🚀 Current Focus
-
-```text
-
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🤖 Building Production AI Applications              │
-│  📚 Learning LLM Engineering                         │
-│  🧠 Mastering Deep Learning                          │
-│  🔍 Researching RAG Systems                          │
-│  👁️ Computer Vision                                 │
-│  ⚙️ MLOps & AI Deployment                            │
-│  🌍 Contributing to Open Source                      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-
-```
-
----
-
-# ⚡ Linux Terminal
-
-```text
-
-aditya@github:~$ ls
-
-AI-Job-Application-Manager
-
-Research-Intelligence-Platform
-
-Student-Placement-ML
-
-PowerBI-HR-Analysis
-
-YOLO-Object-Detection
-
-Ride-Hailing-EDA
-
-SQL-Projects
-
-IMDb-Analysis
-
-aditya@github:~$
-
-```
-
----
-
-# 📈 Engineering Journey
-
-```text
-
-2023  ███ Started Computer Engineering
-
-2024  █████ Learned Python & SQL
-
-2025  █████████ Started Machine Learning
-
-2026  █████████████ Built AI + RAG Projects
-
-2027  ███████████████ AI Engineer (Loading...)
-
-```
-
----
-
-# ⚙️ Favourite Tech
+# 💡 Quote
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,docker,git,github,vscode,mysql"/>
+> *"The best way to predict the future is to build it."*
 
 </p>
 
 ---
 
-# 📊 Visitor Counter
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aditya-3645&label=Visitors&style=flat-square&color=blue"/>
+### 🚀 Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+Let's build intelligent solutions that create real-world impact.
 
 </p>
 
----
-
-# 💬 Random Dev Quote
-
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/aditya-3645/aditya-3645/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** This snake animation only works after you configure a GitHub Action. If you haven't set it up yet, you can remove this section for now.
-
----
-
-# ☕ Fuel
-
-```text
-
-Coffee          ████████████████
-
-Music           ███████████████
-
-Python          ███████████████████
-
-AI Research     ████████████████████
-
-Open Source     █████████████████
-
-Late Night      ███████████████
-
-```
-
----
-
-# 🧠 Favourite Quote
-
-> *"The best way to predict the future is to invent it."*  
-> — Alan Kay
-
----
-
-# 🎯 Mission
-
-```text
-
-Build AI systems that are
-
-✔ Useful
-
-✔ Reliable
-
-✔ Scalable
-
-✔ Intelligent
-
-✔ Human-Centered
-
-```
-
----
-
-# 🤝 Let's Collaborate
-
-If you're working on:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📚 LLM Applications
-- 🔍 RAG Systems
-- 👁️ Computer Vision
-- 📊 Data Analytics
-- ⚙️ Automation
-- 🚀 Open Source
-
-I'd love to collaborate!
-
----
-
-# 📬 Reach Out
-
-```text
-
-aditya@github:~$ contact
-
-LinkedIn :
-https://www.linkedin.com/in/adityadhumal2005/
-
-GitHub :
-https://github.com/aditya-3645
-
-Location :
-Pune, Maharashtra, India
-
-Status :
-Available for AI/ML Internships
-
-aditya@github:~$
-
-```
-
----
-
-<div align="center">
-
-## ⭐ If you like my work, consider starring my repositories!
-
-### Thanks for visiting my GitHub profile ❤️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f2027,50:203A43,100:00C9FF"/>
-
-</div>
